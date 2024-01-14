@@ -1,0 +1,45 @@
+#EXTM3U 
+#EXTINF:-1 channel-number="054" tvg-name="M+ LALIGA TV HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/LaLiga%2B.png" group-title="Fútbol",M+ LALIGA TV HD
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 channel-number="055" tvg-name="DAZN LALIGA HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20LaLiga.png" group-title="Fútbol",DAZN LALIGA HD
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 channel-number="056" tvg-name="LALIGA TV HYPERMOTION HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="Fútbol",LALIGA TV HYPERMOTION HD
+http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 channel-number="057" tvg-name="M+ LALIGA TV 2 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" group-title="Fútbol",M+ LALIGA TV 2 HD
+http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
+#EXTINF:-1 channel-number="058" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20LaLiga%202.png" group-title="Fútbol",DAZN LALIGA 2 HD
+http://127.0.0.1:6878/ace/getstream?id=93d663e92a93845b11c9831885646fa39ba1ed66
+#EXTINF:-1 channel-number="060" tvg-name="M+ LIGA DE CAMPEONES HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="Fútbol",M+ LIGA DE CAMPEONES HD
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 channel-number="061" tvg-name="M+ LIGA DE CAMPEONES 2 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Fútbol",M+ LIGA DE CAMPEONES 2 HD
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 channel-number="062" tvg-name="M+ LIGA DE CAMPEONES 3 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" group-title="Fútbol",M+ LIGA DE CAMPEONES 3 HD
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 channel-number="063" tvg-name="M+ DEPORTES HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20Deportes%20HD.png" group-title="Deportes",M+ DEPORTES HD
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 channel-number="064" tvg-name="M+ DEPORTES 2 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20Deportes%202%20HD.png" group-title="Deportes",M+ DEPORTES 2 HD
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 channel-number="065" tvg-name="M+ DEPORTES 3 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20Fútbol%203%20HD.png" group-title="Deportes",M+ DEPORTES 3 HD
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 channel-number="069" tvg-name="DAZN F1 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20F1%20HD.png" group-title="Motorsport",DAZN F1 HD
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 channel-number="070" tvg-name="DAZN 1 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%201%20HD.png" group-title="Fútbol",DAZN 1 HD
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 channel-number="071" tvg-name="DAZN 2 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%202%20HD.png" group-title="Fútbol",DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 channel-number="167" tvg-name="M+ LALIGA TV 3 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20LaLiga%20TV%203%20HD.png" group-title="Fútbol",M+ LALIGA TV 3 HD
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 channel-number="168" tvg-name="M+ LALIGA TV 4 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="Fútbol",M+ LALIGA TV 4 HD
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 channel-number="177" tvg-name="LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/LaLiga%20TV%20Hypermotion%202%20HD.png" group-title="Fútbol",LALIGA TV HYPERMOTION 2 HD
+http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 channel-number="178" tvg-name="LALIGA TV HYPERMOTION 3 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/LaLiga%20TV%20Hypermotion%203%20HD.png" group-title="Fútbol",LALIGA TV HYPERMOTION 3 HD
+http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
+#EXTINF:-1 channel-number="062" tvg-name="M+ LIGA DE CAMPEONES 4 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20Liga%20de%20Campeones%204%20HD.png" group-title="Fútbol",M+ LIGA DE CAMPEONES 4 HD
+http://127.0.0.1:6878/ace/getstream?id=1b48d5881337c87b89e1edefff6688fe2271d222
+#EXTINF:-1 channel-number="440" tvg-name="M+ LALIGA TV UHD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20LaLiga%20TV%20UHD.png" group-title="Fútbol",M+ LALIGA TV UHD
+http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 channel-number="441" tvg-name="M+ LIGA DE CAMPEONES UHD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20Liga%20de%20Campeones%20UHD.png" group-title="Fútbol",M+ LIGA DE CAMPEONES UHD
+http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
+#EXTINF:-1 channel-number="442" tvg-name="Partidos Deportivo" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="Fútbol",Partidos Deportivo
+http://127.0.0.1:6878/ace/getstream?id=db42b6826943198e4b51b70955df598eb7342b35
