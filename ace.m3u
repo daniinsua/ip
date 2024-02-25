@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF:-1 channel-number="054" tvg-name="M+ LALIGA TV HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/LaLiga%2B.png" group-title="Fútbol",M+ LALIGA TV HD
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 channel-number="055" tvg-name="DAZN LALIGA HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20LaLiga.png" group-title="Fútbol",DAZN LALIGA HD
 http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 channel-number="056" tvg-name="LALIGA TV HYPERMOTION HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="Fútbol",LALIGA TV HYPERMOTION HD
-http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 channel-number="057" tvg-name="M+ LALIGA TV 2 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" group-title="Fútbol",M+ LALIGA TV 2 HD
 http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 channel-number="058" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20LaLiga%202.png" group-title="Fútbol",DAZN LALIGA 2 HD
